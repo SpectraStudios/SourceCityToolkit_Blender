@@ -8,11 +8,11 @@ If you have feedback on the contents & formats included in this toolkit, or are 
 
 Optimized .blend 3D assets for modding and realtime uses.
 
--Spectra block residences
--market block courtyard
--night market
--rooftop
--intersection scenes 
+- Spectra block residences
+- market block courtyard
+- night market
+- rooftop
+- intersection scenes 
 
 optimized for Spatial.io. Some third party materials removed.
 
